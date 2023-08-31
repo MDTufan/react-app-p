@@ -1,12 +1,15 @@
 .contact-heading{
     text-align: center;
     padding: 12px;
+    width: 100%;
 }
 
 .contact-fastname{
    margin-bottom: 12px;
 }
-
+p{
+    padding: 20px;
+}
 .con-1{
     background-color:rgb(24, 36, 29);
     text-align: center;

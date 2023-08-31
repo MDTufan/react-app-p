@@ -3,7 +3,7 @@ import "./Blogs.css"
 const Blogs = () => {
   return (
     <>
-    <h1 className="contact">Contact Me</h1>
+    <h1 className="contact">Blogs Part</h1>
     <div>
          <section className="blog" >
         
